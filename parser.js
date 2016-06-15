@@ -1,22 +1,33 @@
 /**
  * parser
  */
-var LineByLineReader = require('line-by-line'),
-  lr = new LineByLineReader('./books/verne/Five_Weeks_in_a_Balloon.txt', {skipEmptyLines: true }),
-  row = 0;
+fs = require('fs')
+fs.readFile('./books/verne/Five_Weeks_in_a_Balloon.txt', 'utf8', function (err,data) {
 
-lr.on('error', function (err) {
-    throw err;
+    if (err) {
+        return console.log(err);
+    }
+    var result = data.split("\n");
+
+    var paras = [];
+    var paragraph = "";
+    var paraCount=0;
+    for(var k=0; k< result.length; k++) {
+
+      var line = result[k];
+      if(line == "\r"){
+        paraCount++;
+        paras[paraCount] = paragraph;
+        paragraph = "";
+      } else {
+        paragraph += line;
+      }
+
+    }
+    console.log("para.length = " + paras.length);
+
 });
 
-lr.on('open', function() {
-    // Do something, like initialise progress bar etc.
-});
 
-lr.on('line', function (line) {
-    console.log(++row + ": " + line);
-});
 
-lr.on('end', function () {
-    console.log("Ok we're done - exiting now.");
-});
+
