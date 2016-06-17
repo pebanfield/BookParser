@@ -1,18 +1,4 @@
-﻿
-
-FIVE WEEKS IN A BALLOON
-
-JULES VERNE
-
-Journeys And Discoveries In Africa By Three Englishmen.
-
-
-
-FIVE WEEKS IN A BALLOON.
-
-
-
-CHAPTER FIRST.
+﻿CHAPTER FIRST.
 
 The End of a much-applauded Speech.--The Presentation of Dr. Samuel
 Ferguson.--Excelsior.--Full-length Portrait of the Doctor.--A Fatalist
@@ -486,8 +472,9 @@ of the manual exercise that Dick went through while he thus spoke.
 When his confidential maid-of-all-work, the aged Elspeth, tried to
 insinuate that the whole thing might be a hoax--
 
-"Not a bit of it!" said he. "Don't I know my man? Isn't it just like
-him? Travel through the air! There, now, he's jealous of the eagles,
+"Not a bit of it!" said he. "Don't I know my man?
+
+Isn't it just like him? Travel through the air! There, now, he's jealous of the eagles,
 next! No! I warrant you, he'll not do it! I'll find a way to stop him!
 He! why if they'd let him alone, he'd start some day for the moon!"
 
@@ -529,11 +516,13 @@ journey?"
 "Most certainly! all my preparations are getting along finely, and I--"
 
 "Where are your traps? Let me have a chance at them! I'll make them fly!
-I'll put your preparations in fine order." And so saying, the gallant
-Scot gave way to a genuine explosion of wrath.
+I'll put your preparations in fine order."
 
-"Come, be calm, my dear Dick!" resumed the doctor. "You're angry at me
-because I did not acquaint you with my new project."
+And so saying, the gallant Scot gave way to a genuine explosion of wrath.
+
+"Come, be calm, my dear Dick!" resumed the doctor.
+
+"You're angry at me because I did not acquaint you with my new project."
 
 "He calls this his new project!"
 
@@ -604,8 +593,9 @@ ever!"
 
 "Yes! but in the good sense of the word. Let us not trouble ourselves,
 then, about what fate has in store for us, and let us not forget our
-good old English proverb: 'The man who was born to be hung will never be
-drowned!'"
+good old English proverb:
+
+'The man who was born to be hung will never be drowned!'"
 
 There was no reply to make, but that did not prevent Kennedy from
 resuming a series of arguments which may be readily conjectured, but
@@ -910,7 +900,9 @@ Grant.--Krapf, De Decken, and De Heuglin.
 Dr. Ferguson energetically pushed the preparations for his departure,
 and in person superintended the construction of his balloon, with
 certain modifications; in regard to which he observed the most absolute
-silence. For a long time past he had been applying himself to the study
+silence.
+
+For a long time past he had been applying himself to the study
 of the Arab language and the various Mandingoe idioms, and, thanks to
 his talents as a polyglot, he had made rapid progress.
 
@@ -1313,7 +1305,9 @@ both weigh."
 
 "But--"
 
-"You may keep your hat on. Come!" And Kennedy went.
+"You may keep your hat on. Come!"
+
+And Kennedy went.
 
 They repaired in company to the workshop of the Messrs. Mitchell,
 where one of those so-called "Roman" scales was in readiness. It
@@ -1342,8 +1336,9 @@ was superb in it, without the shield.
 "Ah! ha!" said Joe, with a smile of satisfaction And why did he smile?
 He never could tell himself.
 
-"It's my turn now," said Ferguson--and he put down one hundred and
-thirty-five pounds to his own account.
+"It's my turn now," said Ferguson--
+
+And he put down one hundred and thirty-five pounds to his own account.
 
 "All three of us," said he, "do not weigh much more than four hundred
 pounds."
@@ -1624,8 +1619,9 @@ applause redoubled, and Dick blushed again.
 
 A message from the Queen arrived while they were at dessert. Her Majesty
 offered her compliments to the two travellers, and expressed her
-wishes for their safe and successful journey. This, of course, rendered
-imperative fresh toasts to "Her most gracious Majesty."
+wishes for their safe and successful journey."
+
+"This, of course, rendered imperative fresh toasts to « Her most gracious Majesty.»"
 
 At midnight, after touching farewells and warm shaking of hands, the
 guests separated.
@@ -1633,8 +1629,9 @@ guests separated.
 The boats of the Resolute were in waiting at the stairs of Westminster
 Bridge. The captain leaped in, accompanied by his officers and
 passengers, and the rapid current of the Thames, aiding the strong arms
-of the rowers, bore them swiftly to Greenwich. In an hour's time all
-were asleep on board.
+of the rowers, bore them swiftly to Greenwich.
+
+In an hour's time all were asleep on board.
 
 The next morning, February 21st, at three o'clock, the furnaces began
 to roar; at five, the anchors were weighed, and the Resolute, powerfully
@@ -2013,7 +2010,8 @@ stopcock.
 described to you is really a gas cylinder and blow-pipe for oxygen and
 hydrogen, the heat of which exceeds that of a forge fire.
 
-"This much established, I proceed to the second part of my apparatus.
+"This much established, I proceed to the second part of my apparatus."
+
 From the lowest part of my balloon, which is hermetically closed, issue
 two tubes a little distance apart. The one starts among the upper layers
 of the hydrogen gas, the other amid the lower layers.
@@ -2035,7 +2033,7 @@ into a small cone with a concave base, that is turned downward in the
 shape of a spherical cap.
 
 "It is from the top of this cone that the second pipe issues, and it
-runs, as I have said, into the upper beds of the balloon.
+runs, as I have said, into the upper beds of the balloon."
 
 "The spherical cap of the small cone is of platinum, so as not to melt
 by the action of the cylinder and blow-pipe, for the latter are placed
@@ -2105,17 +2103,18 @@ with a valve operating by means of a pressure of two atmospheres;
 consequently, so soon as this amount of pressure is attained, the steam
 escapes of itself.
 
-"Here are the exact figures: 25 gallons of water, separated into its
-constituent elements, yield 200 pounds of oxygen and 25 pounds of
+"Here are the exact figures:"
+
+"25 gallons of water, separated into its constituent elements, yield 200 pounds of oxygen and 25 pounds of
 hydrogen. This represents, at atmospheric tension, 1,800 cubic feet of
 the former and 3,780 cubic feet of the latter, or 5,670 cubic feet,
-in all, of the mixture. Hence, the stopcock of my cylinder, when fully
-open, expends 27 cubic feet per hour, with a flame at least six times
-as strong as that of the large lamps used for lighting streets. On an
-average, then, and in order to keep myself at a very moderate elevation,
+in all, of the mixture.
+
+Hence, the stopcock of my cylinder, when fully open, expends 27 cubic feet per hour, with a flame at least six times
+as strong as that of the large lamps used for lighting streets. On an average, then, and in order to keep myself at a very moderate elevation,
 I should not burn more than nine cubic feet per hour, so that my
 twenty-five gallons of water represent six hundred and thirty-six hours
-of aerial navigation, or a little more than twenty-six days.
+of aerial navigation, or a little more than twenty-six days."
 
 "Well, as I can descend when I please, to replenish my stock of water on
 the way, my trip might be indefinitely prolonged.
@@ -2241,8 +2240,9 @@ Two masts, eighty feet in height, were raised at the same distance from
 each other. Blocks and tackle, placed at their extremities, afforded the
 means of elevating the balloon, by the aid of a transverse rope. It
 was then entirely uninflated. The interior balloon was fastened to the
-exterior one, in such manner as to be lifted up in the same way. To the
-lower end of each balloon were fixed the pipes that served to introduce
+exterior one, in such manner as to be lifted up in the same way.
+
+To the lower end of each balloon were fixed the pipes that served to introduce
 the hydrogen gas.
 
 The whole day, on the 17th, was spent in arranging the apparatus
@@ -2252,10 +2252,14 @@ sulphuric acid placed together in a large quantity of the first-named
 fluid. The hydrogen passed into a huge central cask, after having been
 washed on the way, and thence into each balloon by the conduit-pipes.
 In this manner each of them received a certain accurately-ascertained
-quantity of gas. For this purpose, there had to be employed eighteen
+quantity of gas.
+
+For this purpose, there had to be employed eighteen
 hundred and sixty-six pounds of sulphuric acid, sixteen thousand and
 fifty pounds of iron, and nine thousand one hundred and sixty-six
-gallons of water. This operation commenced on the following night, about
+gallons of water.
+
+This operation commenced on the following night, about
 three A.M., and lasted nearly eight hours. The next day, the balloon,
 covered with its network, undulated gracefully above its car, which was
 held to the ground by numerous sacks of earth. The inflating apparatus
@@ -2297,8 +2301,9 @@ excellent time, continued until far into the night.
 About six o'clock in the evening, the captain assembled the travellers
 and the officers of the ship at a farewell repast in his cabin. Kennedy,
 whom nobody ventured to question now, sat with his eyes riveted on Dr.
-Ferguson, murmuring indistinguishable words. In other respects, the
-dinner was a gloomy one. The approach of the final moment filled
+Ferguson, murmuring indistinguishable words.
+
+In other respects, the dinner was a gloomy one. The approach of the final moment filled
 everybody with the most serious reflections. What had fate in store for
 these daring adventurers? Should they ever again find themselves in the
 midst of their friends, or seated at the domestic hearth? Were their
@@ -2325,9 +2330,7 @@ to witness the solemn departure of their friends.
 At this moment Kennedy went right up to the doctor, grasped his hand,
 and said:
 
-"Samuel, have you absolutely determined to go?"
-
-"Solemnly determined, my dear Dick."
+"Samuel, have you absolutely determined to go? Solemnly determined, my dear Dick."
 
 "I have done every thing that I could to prevent this expedition, have I
 not?"
@@ -2357,15 +2360,17 @@ above their heads.
 companions, and taking off his hat, "let us give our aerial ship a name
 that will bring her good luck! let us christen her Victoria!"
 
-This speech was answered with stentorian cheers of "Huzza for the Queen!
-Huzza for Old England!"
+This speech was answered with stentorian cheers.
+
+"Huzza for the Queen! Huzza for Old England!"
 
 At this moment the ascensional force of the balloon increased
 prodigiously, and Ferguson, Kennedy, and Joe, waved a last good-by to
 their friends.
 
-"Let go all!" shouted the doctor, and at the word the Victoria shot
-rapidly up into the sky, while the four carronades on board the Resolute
+"Let go all!" shouted the doctor.
+
+At the word the Victoria shot rapidly up into the sky, while the four carronades on board the Resolute
 thundered forth a parting salute in her honor.
 
 
@@ -2672,8 +2677,9 @@ two degrees, or one hundred and twenty miles, to the westward.
 
 Kennedy remarked that the route tended toward the south; but this
 direction was satisfactory to the doctor, who desired to reconnoitre the
-tracks of his predecessors as much as possible. It was agreed that the
-night should be divided into three watches, so that each of the party
+tracks of his predecessors as much as possible.
+
+It was agreed that the night should be divided into three watches, so that each of the party
 should take his turn in watching over the safety of the rest. The doctor
 took the watch commencing at nine o'clock; Kennedy, the one commencing
 at midnight; and Joe, the three o'clock morning watch.
@@ -3382,9 +3388,7 @@ to utter concerning the hospitality of these people; so we might, at
 least, make the venture."
 
 The balloon having, meanwhile, gradually approached the ground, one of
-the anchors lodged in the top of a tree near the market-place.
-
-By this time the whole population had emerged from their hiding-places
+the anchors lodged in the top of a tree near the market-place. By this time the whole population had emerged from their hiding-places
 stealthily, thrusting their heads out first. Several "waganga,"
 recognizable by their badges of conical shellwork, came boldly forward.
 They were the sorcerers of the place. They bore in their girdles small
@@ -3417,9 +3421,7 @@ audience. From it the doctor was not slow in learning that the balloon
 was mistaken for nothing less than the moon in person, and that the
 amiable goddess in question had condescended to approach the town with
 her three sons--an honor that would never be forgotten in this land so
-greatly loved by the god of day.
-
-The doctor responded, with much dignity, that the moon made her
+greatly loved by the god of day. The doctor responded, with much dignity, that the moon made her
 provincial tour every thousand years, feeling the necessity of showing
 herself nearer at hand to her worshippers. He, therefore, begged them
 not to be disturbed by her presence, but to take advantage of it to make
@@ -3502,9 +3504,7 @@ son of the moon, but the latter graciously raised him to his feet.
 Three-quarters of an hour later, through shady paths, surrounded by
 all the luxuriance of tropical vegetation, this enthusiastic procession
 arrived at the sultan's palace, a sort of square edifice called
-ititenya, and situated on the slope of a hill.
-
-A kind of veranda, formed by the thatched roof, adorned the outside,
+ititenya, and situated on the slope of a hill. A kind of veranda, formed by the thatched roof, adorned the outside,
 supported upon wooden pillars, which had some pretensions to being
 carved. Long lines of dark-red clay decorated the walls in characters
 that strove to reproduce the forms of men and serpents, the latter
@@ -3657,7 +3657,9 @@ But one of the sorcerers made a sign, and all the weapons were lowered.
 He then began to climb into the tree, intending to seize the rope and
 bring the machine to the ground.
 
-Joe leaned out with a hatchet ready. "Shall I cut away?" said he.
+Joe leaned out with a hatchet ready.
+
+"Shall I cut away?" said he.
 
 "No; wait a moment," replied the doctor.
 
@@ -3745,9 +3747,7 @@ worthy of admiration--and admire it they did.
 "We are now right in the country of the Moon," said Dr. Ferguson; "for
 it has retained the name that antiquity gave it, undoubtedly, because
 the moon has been worshipped there in all ages. It is, really, a superb
-country."
-
-"It would be hard to find more splendid vegetation."
+country, and it would be hard to find more splendid vegetation."
 
 "If we found the like of it around London it would not be natural, but
 it would be very pleasant," put in Joe. "Why is it that such savage
@@ -4158,7 +4158,9 @@ ship.
 All at once a sharp shock was felt--the anchor had caught in the fissure
 of some rock hidden in the high grass.
 
-"We are fast!" exclaimed Joe.
+"We are held fast!" exclaimed Joe.
+
+["Well, throw away the ladder, " said the hunter.] (not in original translation)
 
 These words had scarcely been uttered when a shrill cry rang through the
 air, and the following phrases, mingled with exclamations, escaped from
@@ -4200,8 +4202,9 @@ The elephant was now making some headway, and soon reached a clearing
 where his whole body could be seen. By his gigantic size, the doctor
 recognized a male of a superb species. He had two whitish tusks,
 beautifully curved, and about eight feet in length; and in these the
-shanks of the anchor had firmly caught. The animal was vainly trying
-with his trunk to disengage himself from the rope that attached him to
+shanks of the anchor had firmly caught.
+
+The animal was vainly trying with his trunk to disengage himself from the rope that attached him to
 the car.
 
 "Get up--go ahead, old fellow!" shouted Joe, with delight, doing
@@ -4234,8 +4237,9 @@ like the whales, whose mass and speed they rival.
 only doing just what whalemen do when out fishing."
 
 But a change in the nature of the ground compelled the doctor to vary
-his style of locomotion. A dense grove of calmadores was descried on
-the horizon, about three miles away, on the north of the prairie. So it
+his style of locomotion.
+
+A dense grove of calmadores was descried on the horizon, about three miles away, on the north of the prairie. So it
 became necessary to detach the balloon from its draught-animal at last.
 
 Kennedy was intrusted with the job of bringing the elephant to a halt.
@@ -4256,7 +4260,9 @@ reloading his rifle with care. In another moment he fired.
 The animal gave a terrible cry, but went on faster than ever.
 
 "Come!" said Joe, taking aim with another gun, "I must help you, or
-we'll never end it." And now two balls penetrated the creature's side.
+we'll never end it."
+
+And now two balls penetrated the creature's side.
 
 The elephant halted, lifted his trunk, and resumed his run toward the
 wood with all his speed; he shook his huge head, and the blood began to
@@ -4321,7 +4327,9 @@ recess that Joe has condescended to let me have."
 
 "Go, my friend, but no imprudence! Don't wander too far away."
 
-"Never fear, doctor!" and, so saying, Dick, shouldering his gun, plunged
+"Never fear, doctor!"
+
+Thus Dick, shouldering his gun, plunged
 into the woods.
 
 Forthwith Joe went to work at his vocation. At first he made a hole in
@@ -4356,6 +4364,7 @@ without being too proud, thought that it would also be pleasant to eat.
 
 "A journey without danger or fatigue," he soliloquized; "your meals when
 you please; a swinging hammock all the time! What more could a man ask?
+
 And there was Kennedy, who didn't want to come!"
 
 On his part, Dr. Ferguson was engrossed in a serious and thorough
@@ -4373,7 +4382,9 @@ replenished but the water.
 
 The pipes and spiral seemed to be in perfect condition, since, thanks to
 their india-rubber jointings, they had yielded to all the oscillations
-of the balloon. His examination ended, the doctor betook himself to
+of the balloon.
+
+His examination ended, the doctor betook himself to
 setting his notes in order. He made a very accurate sketch of the
 surrounding landscape, with its long prairie stretching away out of
 sight, the forest of calmadores, and the balloon resting motionless over
@@ -4715,8 +4726,9 @@ that can hurl thunderbolts when he pleases."
 But, all at once, the doctor snatched up his spy-glass, and directed it
 toward an island reposing in the middle of the river.
 
-"Four trees!" he exclaimed; "look, down there!" Sure enough, there were
-four trees standing alone at one end of it.
+"Four trees!" he exclaimed; "look, down there!"
+
+Sure enough, there were four trees standing alone at one end of it.
 
 "It is Bengal Island! It is the very same," repeated the doctor,
 exultingly.
@@ -4739,8 +4751,9 @@ The sun was at the zenith as the balloon approached the island.
 
 The blacks, who were members of the Makado tribe, were howling lustily,
 and one of them waved his bark hat in the air. Kennedy took aim at
-him, fired, and his hat flew about him in pieces. Thereupon there was a
-general scamper. The natives plunged headlong into the river, and swam
+him, fired, and his hat flew about him in pieces.
+
+Thereupon there was a general scamper. The natives plunged headlong into the river, and swam
 to the opposite bank. Immediately, there came a shower of balls from
 both banks, along with a perfect cloud of arrows, but without doing the
 balloon any damage, where it rested with its anchor snugly secured in
@@ -4765,7 +4778,9 @@ upon one point of the island; there, after searching for some time, he
 began to rummage among the brambles, and, in so doing, scratched his
 hands until they bled.
 
-Suddenly he grasped Kennedy's arm, exclaiming: "Look! look!"
+Suddenly he grasped Kennedy's arm, exclaiming:
+
+"Look! look!"
 
 "Letters!"
 
@@ -4871,8 +4886,9 @@ the unknown. We shall not lack the courage, shall we?"
 
 At ten o'clock at night, after passing over ravines, forests, and
 scattered villages, the aeronauts reached the side of the Trembling
-Mountain, along whose gentle slopes they went quietly gliding. In that
-memorable day, the 23d of April, they had, in fifteen hours, impelled
+Mountain, along whose gentle slopes they went quietly gliding.
+
+In that memorable day, the 23d of April, they had, in fifteen hours, impelled
 by a rapid breeze, traversed a distance of more than three hundred and
 fifteen miles.
 
@@ -4916,8 +4932,9 @@ made up a jumble of notions, and deduced systems from them. Down at the
 bottom of it all there is some appearance of truth; and you see that
 they were right about the sources of the Nile."
 
-"Nothing could be more correct," said Kennedy. "It was by the aid of
-these documents that some attempts at maps were made, and so I am going
+"Nothing could be more correct," said Kennedy.
+
+"It was by the aid of these documents that some attempts at maps were made, and so I am going
 to try to follow our route by one of them, rectifying it when need be."
 
 "Is all this region inhabited?" asked Joe.
