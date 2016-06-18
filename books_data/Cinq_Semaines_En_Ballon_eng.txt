@@ -11250,8 +11250,9 @@ paces away.
 
 "Throw out the two fowling-pieces!" shouted Ferguson.
 
-"Not without discharging them, at least," responded the sportsman; and
-four shots in quick succession struck the thick of the advancing group
+"Not without discharging them, at least," responded the sportsman.
+
+...and four shots in quick succession struck the thick of the advancing group
 of horsemen. Four Talabas fell, amid the frantic howls and imprecations
 of their comrades.
 
@@ -11299,8 +11300,9 @@ The three friends still clung to the network. They had been able to
 fasten it under their feet, where it had formed a sort of swinging
 pocket.
 
-Suddenly, after they had crossed the hill, the doctor exclaimed: "The
-river! the river! the Senegal, my friends!"
+Suddenly, after they had crossed the hill, the doctor exclaimed:
+
+"The river! The river! The Senegal, my friends!"
 
 And about two miles ahead of them, there was indeed the river rolling
 along its broad mass of water, while the farther bank, which was low and
@@ -11328,8 +11330,9 @@ his companions toward the Senegal.
 
 At this point the river sent forth a prolonged roaring; and when
 Ferguson reached its bank, he recognized the falls of Gouina. But not
-a boat, not a living creature was to be seen. With a breadth of two
-thousand feet, the Senegal precipitates itself for a height of one
+a boat, not a living creature was to be seen.
+
+With a breadth of two thousand feet, the Senegal precipitates itself for a height of one
 hundred and fifty, with a thundering reverberation. It ran, where they
 saw it, from east to west, and the line of rocks that barred its course
 extended from north to south. In the midst of the falls, rocks of
