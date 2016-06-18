@@ -3,11 +3,12 @@
  */
 fs = require('fs');
 
-//var chapterTitle = "CHAPITRE";
-var chapterTitle = "CHAPTER";
+var chapterTitle = "CHAPITRE";
+//var chapterTitle = "CHAPTER";
 
-fs.readFile('./books_data/Cinq_Semaines_En_Ballon_eng.txt', 'utf8', function (err,data) {
+fs.readFile('./books_data/Cinq_Semaines_En_Ballon_fr.txt', 'utf8', function (err,data) {
 
+/*
     var toc = {};
     toc.id = "Five_Weeks_in_a_Balloon";
     toc.title = "Five Weeks in a Balloon";
@@ -17,8 +18,9 @@ fs.readFile('./books_data/Cinq_Semaines_En_Ballon_eng.txt', 'utf8', function (er
     toc.year = 1863;
     toc.translation = true;
     toc.chapters = [];
+*/
 
-  /*
+    var toc = {};
     toc.id = "Cinq_Semaines_En_Ballon";
     toc.title = "Cinq Semaines En Ballon";
     toc.author = "Jules Verne";
@@ -27,7 +29,7 @@ fs.readFile('./books_data/Cinq_Semaines_En_Ballon_eng.txt', 'utf8', function (er
     toc.year = 1863;
     toc.translation = false;
     toc.chapters = [];
-    */
+
 
 
     if (err) {
@@ -68,7 +70,8 @@ fs.readFile('./books_data/Cinq_Semaines_En_Ballon_eng.txt', 'utf8', function (er
             paragraphStr="";
           }
           chapterCount++;
-          lastChapterTitle = line;
+          lastChapterTitle = line.replace("\r", "");
+          lastChapterTitle = lastChapterTitle.replace(".", "");
           isChapterTitle = true;
 
         } else if (line == "\r" && paragraphStr != "") { //paragraph end
@@ -81,6 +84,7 @@ fs.readFile('./books_data/Cinq_Semaines_En_Ballon_eng.txt', 'utf8', function (er
             paragraphStr += lines[l] + " ";
           }
           paragraphStr = paragraphStr.substring(0, paragraphStr.length-2);
+          paragraphStr = paragraphStr.replace(/[\u200B-\u200D\uFEFF\u0091\u0092\u009C\u008C]/g, '');
           paragraph.body = paragraphStr;
           if(paragraph.body != "") { //hack
             paras.push(paragraph);
