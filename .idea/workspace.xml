@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="parser.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="parser.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.757085">
+              <caret line="87" column="118" selection-start-line="87" selection-start-column="118" selection-end-line="87" selection-end-column="118" />
               <folding />
             </state>
           </provider>
@@ -51,10 +51,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cinq_Semaines_En_Ballon_eng.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cinq_Semaines_En_Ballon_eng.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/books_data/Cinq_Semaines_En_Ballon_eng.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3809524">
+            <state vertical-scroll-proportion="-10.074074">
               <caret line="11334" column="22" selection-start-line="11334" selection-start-column="22" selection-end-line="11334" selection-end-column="22" />
               <folding />
             </state>
@@ -86,8 +86,8 @@
       <list>
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/books_data/Cinq_Semaines_En_Ballon_fr.txt" />
-        <option value="$PROJECT_DIR$/parser.js" />
         <option value="$PROJECT_DIR$/books_data/Cinq_Semaines_En_Ballon_eng.txt" />
+        <option value="$PROJECT_DIR$/parser.js" />
       </list>
     </option>
   </component>
@@ -297,13 +297,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/parser.js</url>
-          <line>87</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
@@ -357,18 +350,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/parser.js">
+    <entry file="file://$PROJECT_DIR$/books_data/Cinq_Semaines_En_Ballon_eng.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state vertical-scroll-proportion="-10.074074">
+          <caret line="11334" column="22" selection-start-line="11334" selection-start-column="22" selection-end-line="11334" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/books_data/Cinq_Semaines_En_Ballon_eng.txt">
+    <entry file="file://$PROJECT_DIR$/parser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3809524">
-          <caret line="11334" column="22" selection-start-line="11334" selection-start-column="22" selection-end-line="11334" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.757085">
+          <caret line="87" column="118" selection-start-line="87" selection-start-column="118" selection-end-line="87" selection-end-column="118" />
           <folding />
         </state>
       </provider>

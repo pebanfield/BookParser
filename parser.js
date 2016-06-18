@@ -85,6 +85,7 @@ fs.readFile('./books_data/Cinq_Semaines_En_Ballon_eng.txt', 'utf8', function (er
           }
           paragraphStr = paragraphStr.substring(0, paragraphStr.length-2);
           paragraphStr = paragraphStr.replace(/[\u200B-\u200D\uFEFF\u0091\u0092\u009C\u008C]/g, '');
+          ///[\u0000\u00ad\u0600-\u0604\u070f\u17b4\u17b5\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]/g
           paragraph.body = paragraphStr;
           if(paragraph.body != "") { //hack
             paras.push(paragraph);
