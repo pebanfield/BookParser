@@ -3,12 +3,13 @@
  */
 fs = require('fs');
 
-//var chapterTitle = "CHAPITRE";
-var chapterTitle = "CHAPTER";
+var chapterTitle = "CHAPITRE";
+//var chapterTitle = "CHAPTER";
 
-fs.readFile('./books_data/Cinq_Semaines_En_Ballon_eng.txt', 'utf8', function (err,data) {
+fs.readFile('./books_data/Cinq_Semaines_En_Ballon_fr.txt', 'utf8', function (err,data) {
 
 
+/*
     var toc = {};
     toc.id = "Five_Weeks_in_a_Balloon";
     toc.title = "Five Weeks in a Balloon";
@@ -18,8 +19,8 @@ fs.readFile('./books_data/Cinq_Semaines_En_Ballon_eng.txt', 'utf8', function (er
     toc.year = 1863;
     toc.translation = true;
     toc.chapters = [];
+*/
 
-/*
     var toc = {};
     toc.id = "Cinq_Semaines_En_Ballon";
     toc.title = "Cinq Semaines En Ballon";
@@ -29,7 +30,7 @@ fs.readFile('./books_data/Cinq_Semaines_En_Ballon_eng.txt', 'utf8', function (er
     toc.year = 1863;
     toc.translation = false;
     toc.chapters = [];
-*/
+
 
 
     if (err) {

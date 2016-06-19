@@ -24,8 +24,8 @@
       <file leaf-file-name="parser.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/parser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.757085">
-              <caret line="87" column="118" selection-start-line="87" selection-start-column="118" selection-end-line="87" selection-end-column="118" />
+            <state vertical-scroll-proportion="0.48178136">
+              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -44,8 +44,8 @@
       <file leaf-file-name="Cinq_Semaines_En_Ballon_fr.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/books_data/Cinq_Semaines_En_Ballon_fr.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.4074073">
-              <caret line="1522" column="13" selection-start-line="1522" selection-start-column="13" selection-end-line="1522" selection-end-column="13" />
+            <state vertical-scroll-proportion="-7.5555553">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -54,8 +54,8 @@
       <file leaf-file-name="Cinq_Semaines_En_Ballon_eng.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/books_data/Cinq_Semaines_En_Ballon_eng.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.074074">
-              <caret line="11334" column="22" selection-start-line="11334" selection-start-column="22" selection-end-line="11334" selection-end-column="22" />
+            <state vertical-scroll-proportion="-5.6666665">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -344,24 +344,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/books_data/Cinq_Semaines_En_Ballon_fr.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4074073">
-          <caret line="1522" column="13" selection-start-line="1522" selection-start-column="13" selection-end-line="1522" selection-end-column="13" />
+        <state vertical-scroll-proportion="-7.5555553">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/books_data/Cinq_Semaines_En_Ballon_eng.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.074074">
-          <caret line="11334" column="22" selection-start-line="11334" selection-start-column="22" selection-end-line="11334" selection-end-column="22" />
+        <state vertical-scroll-proportion="-5.6666665">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parser.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.757085">
-          <caret line="87" column="118" selection-start-line="87" selection-start-column="118" selection-end-line="87" selection-end-column="118" />
+        <state vertical-scroll-proportion="0.48178136">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
           <folding />
         </state>
       </provider>
